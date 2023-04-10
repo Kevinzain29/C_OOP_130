@@ -40,6 +40,8 @@ int main() {
 
 	cout << "masukan NIM : ";
 	cin >> mhs1.nim;
+	cout << "masukan nama : ";
+
 
 }
 
