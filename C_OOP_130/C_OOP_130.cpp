@@ -41,6 +41,9 @@ int main() {
 	cout << "masukan NIM : ";
 	cin >> mhs1.nim;
 	cout << "masukan nama : ";
+	cin >> mhs1.nama;
+	mhs1.cetak();
+
 
 
 }
