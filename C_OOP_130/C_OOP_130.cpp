@@ -11,5 +11,17 @@ public: void cetak() {
 	cout << "\nnama = " << nama;
 	}
 };
+class Matakuliah {
+	private
+		string kode;
+	string namaM;
+	int sks;
+public:
+	void input() {
+		cout << "masukan kode matakuliah : ";
+	}
+
+};
+
 
 
