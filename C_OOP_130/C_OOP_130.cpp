@@ -39,6 +39,7 @@ int main() {
 	Matakuliah mk;
 
 	cout << "masukan NIM : ";
+	cin >> mhs1.nim;
 
 }
 
